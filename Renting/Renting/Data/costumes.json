@@ -1,0 +1,22 @@
+[
+  {
+    "Name": "name1",
+    "Description": "Beautiful costume. color - color ?",
+    "RentingTime": null
+  },
+  {
+    "Name": "name2",
+    "Description": "Beautiful costume. color - color ?",
+    "RentingTime": null
+  },
+  {
+    "Name": "name4",
+    "Description": "not Beautiful costume. color - color!",
+    "RentingTime": null
+  },
+  {
+    "Name": "name3",
+    "Description": "Beautiful costume. color - color ?",
+    "RentingTime": null
+  }
+]
